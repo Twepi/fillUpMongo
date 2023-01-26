@@ -1,4 +1,9 @@
 node_modules
-# Keep environment variables out of version control
 .env
 build
+.vscode
+download
+test/*/*.js
+test/*/*.map
+test/*.js
+test/*.map
