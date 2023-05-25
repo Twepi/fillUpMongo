@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-const url = "mongodb://localhost:27017/BlogWebsite"
+const url = "mongodb://localhost:27017/testWork"
 
 export const mongoConnect = async () => {
     try {
